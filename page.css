@@ -1,0 +1,55 @@
+body {
+background: #ddd8dd;
+}
+    
+.Wrapper {
+display: block;
+flex-direction: row-reverse;
+background-color: #fff;
+width: 400px;
+height: 400px;
+margin: 0 auto;
+}
+    
+
+.registr{
+    text-align: center;
+    margin: 0, auto;
+}
+
+.info{
+    text-align: center;
+}
+
+.styled {
+    border: none;
+    line-height: 5;
+    padding: 0 60px;
+    margin-top: 17px;
+    font-size: 7px;
+    text-align: center;
+    text-decoration:dotted ;
+    color: #fff;
+    background-color: rgb(97, 226, 64);
+   
+}
+.styled:hover {
+    background-color: rgb(103, 216, 75);
+}
+
+.buttom{
+    text-align: center;
+    margin: 10px;
+}
+
+.input{
+    border: 30px;
+}
+
+.email{
+    margin-top: 20px; 
+}
+
+.password{
+    margin-top: 20px;
+}
